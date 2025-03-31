@@ -15,7 +15,7 @@ class MainApp extends StatelessWidget {
           floatingActionButton: BackButton(),
           backgroundColor: Color.fromARGB(123, 7, 218, 255),
             body: Center(
-              child: Text('Testando pagina flutter'),
+              child: Text('Testando pgea flutter'),
           )
         ),
       );
