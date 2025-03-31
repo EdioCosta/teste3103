@@ -13,7 +13,7 @@ class MainApp extends StatelessWidget {
     return const MaterialApp(
       home: Scaffold(
           floatingActionButton: BackButton(),
-          backgroundColor: Color.fromARGB(123, 7, 218, 255),
+          backgroundColor: Color.fromARGB(122, 7, 255, 172),
             body: Center(
               child: Text('Testando pgea flutter'),
           )
